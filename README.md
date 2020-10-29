@@ -1,4 +1,4 @@
-# Git_Course
+# Mon premier projet Angular
 redaAlsahim.dev
 
 
